@@ -1,5 +1,8 @@
 # 🧠 AI Skin Analyzer Website
 
+# Data set:
+https://drive.google.com/drive/folders/1qwOI62DdDESoep0if76UAYQudAd0oVhm?usp=sharing
+
 ## Overview
 
 The **AI Skin Analyzer** is an intelligent web application designed to assist users in analyzing skin conditions using AI-powered image classification. By leveraging advanced machine learning techniques, the system can detect and classify various skin diseases through real-time camera capture or uploaded images.
