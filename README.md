@@ -1,5 +1,8 @@
 # 🧠 AI Skin Analyzer Website
 
+# Visit
+Open your browser and go to `https://skin-disease-three.vercel.app/`
+
 # Data set:
 https://drive.google.com/drive/folders/1qwOI62DdDESoep0if76UAYQudAd0oVhm?usp=sharing
 
@@ -70,8 +73,6 @@ pip install -r requirements.txt
 python app.py
 ```
 
-4. **Visit**
-Open your browser and go to `http://localhost:5000`
 
 ## ⚠️ Disclaimer
 
