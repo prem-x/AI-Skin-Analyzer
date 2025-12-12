@@ -1,7 +1,7 @@
 # 🧠 AI Skin Analyzer Website
 
 # Visit
-Open your browser and go to `https://skin-disease-three.vercel.app/`
+Open your browser and go to https://skin-disease-three.vercel.app/
 
 # Data set:
 https://drive.google.com/drive/folders/1qwOI62DdDESoep0if76UAYQudAd0oVhm?usp=sharing
